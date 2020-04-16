@@ -148,7 +148,7 @@ class BackendApp extends ECBaseApp {
 		parent::_config_view();
 		$this->_view->template_dir = APP_ROOT . '/templates';
 		$this->_view->compile_dir = ROOT_PATH . '/temp/compiled/admin';
-		$this->_view->res_base = BASE_URL . '/templates';
+		$this->_view->res_base =  '/admin/templates'; //BASE_URL .
 		$this->_view->lib_base = dirname(site_url()) . '/includes/libraries/javascript';
 	}
 

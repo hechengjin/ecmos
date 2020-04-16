@@ -1,3 +1,16 @@
+# ECMOS演示效果
+
+
+
+
+![index](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo.png)
+![ecmobuyer](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmobuyer.png)
+![ecmo_seller](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_seller.png)
+![ecmo_admin](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_admin.png)
+
+相关php.ini的设置可对比 screenshot/php.ini 文件
+[查看更多](http://www.firemail.wang:8088/forum.php?mod=viewthread&tid=10031)
+
 # ECMOS安装
 ###使用install安装
 执行路径http://you web site/install

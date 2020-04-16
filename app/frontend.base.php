@@ -81,7 +81,7 @@ class FrontendApp extends ECBaseApp {
 
 	function display($tpl) {
 		$cart = &m('cart');
-		$this->assign('cart_goods_kinds', $cart->get_kinds(SESS_ID, $this->visitor->get('user_id')));
+		$this->assign('cart_goods_kinds', is_object($cart) && is_object($this->visitor) ? $cart->get_kinds(SESS_ID, $this->visitor->get('user_id')) : 0);
 
 		import('init.lib');
 		$psmb = new Psmb_init();

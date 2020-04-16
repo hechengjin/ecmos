@@ -6,7 +6,7 @@
 ![index](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo.png)
 ![ecmobuyer](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmobuyer.png)
 ![ecmo_seller](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_seller.png)
-![ecmo_admin](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_admin.png)
+![ecmo_admin](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_admin.gif)
 
 相关php.ini的设置可对比 screenshot/php.ini 文件
 [查看更多](http://www.firemail.wang:8088/forum.php?mod=viewthread&tid=10031)

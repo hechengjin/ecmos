@@ -9,9 +9,13 @@
 ![ecmo_admin](https://github.com/hechengjin/ecmos/blob/master/screenshot/ecmo_admin.gif)
 
 相关php.ini的设置可对比 screenshot/php.ini 文件
+
 [查看更多](http://www.firemail.wang:8088/forum.php?mod=viewthread&tid=10031)
+
 更多关注公众号firemail
+
 ![firemail](https://github.com/hechengjin/ecmos/blob/master/screenshot/qrcode_firemail_258.jpg)
+
 
 # ECMOS安装
 ###使用install安装

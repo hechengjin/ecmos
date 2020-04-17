@@ -10,6 +10,8 @@
 
 相关php.ini的设置可对比 screenshot/php.ini 文件
 [查看更多](http://www.firemail.wang:8088/forum.php?mod=viewthread&tid=10031)
+更多关注公众号firemail
+![firemail](http://www.firemail.wang:8088/data/attachment/forum/202004/17/112311qeefawxv28zowwcv.jpg)
 
 # ECMOS安装
 ###使用install安装
